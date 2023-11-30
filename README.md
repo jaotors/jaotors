@@ -20,5 +20,5 @@
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaotors&show_icons=true&theme=tokyonight&locale=en" alt="jaotors" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaotors&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jaotors" /></p>
 
